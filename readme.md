@@ -1,5 +1,7 @@
 # Pride Face
 
+![](icon144.png)
+
 you'll need to install docker for this to work
 
 ## How to compile
