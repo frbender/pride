@@ -1,0 +1,26 @@
+{
+  "name": "pride",
+  "author": "Franz Bender",
+  "version": "1.0.0",
+  "keywords": ["pride", "watchface", "rainbow"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Pride",
+    "uuid": "65461030-dfaa-42bb-a3b0-2ab1b978c0bc",
+    "sdkVersion": "3",
+    "enableMultiJS": false,
+    "targetPlatforms": [
+      "basalt"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}
